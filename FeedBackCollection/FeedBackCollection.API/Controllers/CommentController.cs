@@ -52,7 +52,7 @@ namespace FeedBackCollection.API.Controllers
                     newVote.CommentId = id;
                     newVote.CreatedDate=DateTime.Now;
                     newVote.IsLike = isLike;
-                    _repository.Vote.CreateVote(vote);
+                    _repository.Vote.CreateVote(newVote);
                     _repository.Comment.UpdateRating(id, isLike);
 
                 }
