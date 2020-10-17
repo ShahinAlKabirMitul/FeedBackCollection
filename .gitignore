@@ -3,3 +3,10 @@
 ################################################################################
 
 /FeedBackCollection/FeedBackCollection.API/bin/Debug/netcoreapp3.1
+/FeedBackCollection/FeedBackCollection.API/obj
+/FeedBackCollection/FeedBackCollection.Contracts/bin/Debug/netcoreapp3.1
+/FeedBackCollection/FeedBackCollection.Contracts/obj
+/FeedBackCollection/FeedBackCollection.Entities/bin/Debug/netcoreapp3.1
+/FeedBackCollection/FeedBackCollection.Entities/obj
+/FeedBackCollection/FeedBackCollection.Repository/bin/Debug/netcoreapp3.1
+/FeedBackCollection/FeedBackCollection.Repository/obj
